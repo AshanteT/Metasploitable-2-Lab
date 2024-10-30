@@ -6,11 +6,17 @@ The objective of completing a Metasploitable 2 lab on VirtualBox is to gain prac
 
 ### Skills Learned 
 
+- Exploitation techniques 
+- Network Scanning
+- Security and Isolation (Virtual Machines)
+- Network Types
 
-### Tools Used 
+### Tools Used
 
 - Virtual Machine (Virtal Box)
 - Nmap
 - Metasploit Framework
 
 ### Steps
+
+Click on the link to view the recording of my lab: https://youtu.be/ZSNS7v8GPYY
